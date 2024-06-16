@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "OM3ControllerLibrary")(type "KiCad")(uri "${KIPRJMOD}/OM3ControllerLibrary.kicad_sym")(options "")(descr ""))
+)
